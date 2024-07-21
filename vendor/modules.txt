@@ -114,7 +114,7 @@ gopkg.in/sohlich/elogrus.v7
 # gopkg.in/yaml.v2 v2.4.0
 ## explicit; go 1.15
 gopkg.in/yaml.v2
-# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+# gopkg.in/yaml.v3 v3.0.0
 ## explicit
 # unknwon.dev/clog/v2 v2.2.0
 ## explicit; go 1.11
